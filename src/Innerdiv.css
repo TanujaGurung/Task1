@@ -1,0 +1,11 @@
+#innerdiv{
+    height: 580px;
+    width: 90%;
+    margin: 4% 5% 5% 5%;
+    position: absolute;
+    opacity: 0.1;
+    background: ivory;
+    position: absolute;
+    display: list-item;
+      
+}

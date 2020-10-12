@@ -1,0 +1,78 @@
+.container {
+  background-image: url("./cake.jpg");
+  background-repeat: no-repeat;
+  width: 1200px;
+  height: 700px;
+  margin-left: 5%;
+  position: relative;
+ 
+}
+
+h1{
+  opacity: 1;
+  color: white;
+  float: left;
+ margin-left: 13%;
+ margin-top: -25px;
+ 
+}
+
+li {
+  float: left;
+ padding-left: 12%;
+  display: inline;
+  padding-top: 10%;
+  
+  
+}
+
+li a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+ 
+}
+#logo{
+  height: 80px;
+  width:80px;
+  margin-top: -35px;
+}
+h2{
+  color: white;
+ padding: 20% 10% 60%;
+ font-family: cursive;
+ font-size: 40px;
+}
+#head1{
+  color: white;
+ margin-top: -62%;
+ margin-left: 10%;
+ font-family: cursive;
+ font-size: 30px;
+}
+#head2{
+  color: white;
+  margin-top: -5%;
+ margin-left: 10%;
+ font-family: cursive;
+ font-size: 30px;
+}
+#head3{
+  color: white;
+  margin-top: -5%;
+  margin-left: 10%;
+  font-family: cursive;
+  font-size: 30px;
+ }
+#explore{
+  height: 70px;
+  width: 250px;
+  margin-left: 15%;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-family: serif;
+  color: white;
+  background-color: orangered;
+}
